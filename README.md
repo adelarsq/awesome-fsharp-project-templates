@@ -19,7 +19,7 @@
 
 - [giraffe-fsharp/giraffe-template](https://github.com/giraffe-fsharp/giraffe-template) - official template for Giraffe
 
-## Suave
+### Suave
 
 - [adelarsq/suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample
 
