@@ -1,5 +1,7 @@
 # Awesome F# Project Templates
 
+
+
 ## Full Stack
 
 - [Dzoukr/SAFEr.Template](https://github.com/Dzoukr/SAFEr.Template) - Strongly opinionated modification of amazing SAFE Stack Template for full-stack development in F#
@@ -27,6 +29,11 @@
 
 - [kxkx5150/Fsharp-GTK](https://github.com/kxkx5150/Fsharp-GTK) - F# GTK VSCode Template
 
+## Libs
+
+- [stscoundrel/dotnet-fs-template](https://github.com/stscoundrel/dotnet-fs-template) - Template for F# .NET library with CI/CD
+- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps .NET 6.0 `net6.0`
+
 ## Mobile
 
 - [fabulousfx/FSharp.Mobile.Templates](https://github.com/fabulousfx/FSharp.Mobile.Templates) - Mobile templates for .NET 6.0 / F# 6.0
@@ -39,3 +46,6 @@
 
 - [martinmoec/fable-react-native-template](https://github.com/martinmoec/fable-react-native-template) - Fable React Native App using F#, .NET Core and Yarn
 
+## SDL
+
+- [kxkx5150/Fsharp-SDL2](https://github.com/kxkx5150/Fsharp-SDL2) - F# SDL2 VSCode Template
