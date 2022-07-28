@@ -38,6 +38,7 @@
 
 - [stscoundrel/dotnet-fs-template](https://github.com/stscoundrel/dotnet-fs-template) - Template for F# .NET library with CI/CD
 - [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps .NET 6.0 `net6.0`
+- [TheAngryByrd/Fable.Template.Library](https://github.com/TheAngryByrd/Fable.Template.Library) - F# Template for create and publishing Fable Libraries
 
 ## Mobile
 
