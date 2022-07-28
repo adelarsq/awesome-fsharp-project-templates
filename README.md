@@ -15,7 +15,7 @@
 
 - [giraffe-fsharp/giraffe-template](https://github.com/giraffe-fsharp/giraffe-template) - official template for Giraffe
 
-## Anothers
+## List
 
 ### AutoCad
 
