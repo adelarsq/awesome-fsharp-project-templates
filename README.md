@@ -24,6 +24,7 @@
 - [jasiozet/fable-feliz-template](https://github.com/jasiozet/fable-feliz-template) - Fable, Feliz, DaisyUI, Vite project starter
 - [MangelMaxime/template-gitpod-fable-3-vite-react](https://github.com/MangelMaxime/template-gitpod-fable-3-vite-react) - Fable 3 template on Gitpod
 - [rastreus/FableStarter](https://github.com/rastreus/FableStarter) - Elmish F# Fable template that uses Tailwind for styling, the Vite bundler, the Vitest test runner and Storybook
+- [ImaginaryDevelopment/Fable.Static](https://github.com/ImaginaryDevelopment/Fable.Static) - Base template for writing static sites using F# JavaScript with Fable, and pushing it up to GitHub pages
 
 ## GTK
 
