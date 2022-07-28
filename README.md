@@ -42,6 +42,10 @@
 
 - [romanov/monogame-fsharp](https://github.com/romanov/monogame-fsharp) - MonoGame project template in F#
 
+## PowerShell
+
+- [brianary/PSModuleTemplate](https://github.com/brianary/PSModuleTemplate) - .NET Core template for a binary F# PowerShell module
+
 ## React Native
 
 - [martinmoec/fable-react-native-template](https://github.com/martinmoec/fable-react-native-template) - Fable React Native App using F#, .NET Core and Yarn
