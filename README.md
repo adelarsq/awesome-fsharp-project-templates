@@ -7,6 +7,10 @@
 
 ## Server Side
 
+### .NET Core
+
+- [adelarsq/hotchocolate_fsharp_sample](https://github.com/adelarsq/hotchocolate_fsharp_sample) - GraphQL server using .NET 5, F# and Hot Chocolate
+
 ### Falco
 
 - [pimbrouwers/Falco](https://github.com/pimbrouwers/Falco/tree/master/templates) - official template for Falco
@@ -14,6 +18,10 @@
 ### Giraffe
 
 - [giraffe-fsharp/giraffe-template](https://github.com/giraffe-fsharp/giraffe-template) - official template for Giraffe
+
+## Suave
+
+- [adelarsq/suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample
 
 ## List
 
