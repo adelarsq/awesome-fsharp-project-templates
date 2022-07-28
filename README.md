@@ -49,6 +49,7 @@
 ## React Native
 
 - [martinmoec/fable-react-native-template](https://github.com/martinmoec/fable-react-native-template) - Fable React Native App using F#, .NET Core and Yarn
+- [bobcat-pixel/fable-expo](https://github.com/bobcat-pixel/fable-expo) - Expo template for F# + Fable React Native
 
 ## SDL
 
