@@ -51,6 +51,7 @@
 ## MonoGame
 
 - [romanov/monogame-fsharp](https://github.com/romanov/monogame-fsharp) - MonoGame project template in F#
+- [paavohuhtala/monogame-fsharp-example](https://github.com/paavohuhtala/monogame-fsharp-example) - Project template for MonoGame + F# + .NET Core
 
 ## NodeJS
 
