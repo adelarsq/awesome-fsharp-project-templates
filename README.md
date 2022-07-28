@@ -23,6 +23,10 @@
 - [MangelMaxime/template-gitpod-fable-3-vite-react](https://github.com/MangelMaxime/template-gitpod-fable-3-vite-react) - Fable 3 template on Gitpod
 - [rastreus/FableStarter](https://github.com/rastreus/FableStarter) - Elmish F# Fable template that uses Tailwind for styling, the Vite bundler, the Vitest test runner and Storybook
 
+## GTK
+
+- [kxkx5150/Fsharp-GTK](https://github.com/kxkx5150/Fsharp-GTK) - F# GTK VSCode Template
+
 ## Mobile
 
 - [fabulousfx/FSharp.Mobile.Templates](https://github.com/fabulousfx/FSharp.Mobile.Templates) - Mobile templates for .NET 6.0 / F# 6.0
