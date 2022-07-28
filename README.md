@@ -19,6 +19,10 @@
 
 - [EluciusFTW/fsharp-spectre-console-template](https://github.com/EluciusFTW/fsharp-spectre-console-template) - FSharp Spectre.Console Template
 
+## Excel
+
+- [Zaid-Ajaj/ExcelPluginTemplate](https://github.com/Zaid-Ajaj/ExcelPluginTemplate) - Template project to create Excel Add-ins with F# and ExcelDNA
+
 ## Fable
 
 - [jasiozet/fable-feliz-template](https://github.com/jasiozet/fable-feliz-template) - Fable, Feliz, DaisyUI, Vite project starter
