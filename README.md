@@ -19,6 +19,10 @@
 
 - [EluciusFTW/fsharp-spectre-console-template](https://github.com/EluciusFTW/fsharp-spectre-console-template) - FSharp Spectre.Console Template
 
+## Discord
+
+- [yellowsink/fsharp-discord-bot](https://github.com/yellowsink/fsharp-discord-bot) - Basic template for writing functional discord bots in F#
+
 ## Excel
 
 - [Zaid-Ajaj/ExcelPluginTemplate](https://github.com/Zaid-Ajaj/ExcelPluginTemplate) - Template project to create Excel Add-ins with F# and ExcelDNA
