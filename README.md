@@ -47,6 +47,10 @@
 
 - [romanov/monogame-fsharp](https://github.com/romanov/monogame-fsharp) - MonoGame project template in F#
 
+## NodeJS
+
+- [scally/fable-node-template](https://github.com/scally/fable-node-template) - Minimalistic dotnet template for new nodejs projects in F#/Fable
+
 ## PowerShell
 
 - [brianary/PSModuleTemplate](https://github.com/brianary/PSModuleTemplate) - .NET Core template for a binary F# PowerShell module
