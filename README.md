@@ -4,6 +4,7 @@
 
 - [Dzoukr/SAFEr.Template](https://github.com/Dzoukr/SAFEr.Template) - Strongly opinionated modification of amazing SAFE Stack Template for full-stack development in F#
 - [Zaid-Ajaj/SAFE.Simplified](https://github.com/Zaid-Ajaj/SAFE.Simplified) - Lightweight alternative template of SAFE for happy cross-IDE full-stack F# development
+- [JordanMarr/fable-lit-fullstack-template](https://github.com/JordanMarr/fable-lit-fullstack-template) - SAFE-style template with Fable.Lit, Fable.Remoting and Giraffe
 
 ## Server Side
 
