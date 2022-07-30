@@ -15,6 +15,7 @@
 ### Falco
 
 - [pimbrouwers/Falco](https://github.com/pimbrouwers/Falco/tree/master/templates) - official template for Falco
+- [jasiozet/falco-api-with-tests-template](https://github.com/jasiozet/falco-api-with-tests-template) - Falco API with tests (xUnit, FsUnit) basic template
 
 ### Giraffe
 
